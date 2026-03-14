@@ -91,7 +91,7 @@ function AddPostForm({ onAddPost }) {
           fontSize: "1rem",
         }}
       >
-        โพสต์
+        โพสต์--
       </button>
     </form>
   );
